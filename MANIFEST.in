@@ -1,0 +1,4 @@
+graft alacenapp/templates
+graft alacenapp/static
+include alacenapp/schema.sql
+
